@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software in research, please cite this repository."
+title: "Invariant Synthesis Engine"
+type: software
+authors:
+  - family-names: "Voss"
+    given-names: "Logan"
+version: 0.1.0
+date-released: 2026-08-27
+license: MIT
+repository-code: "https://github.com/loganvoss/invariant-synthesis-engine"
