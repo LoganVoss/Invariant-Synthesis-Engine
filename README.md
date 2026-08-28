@@ -13,10 +13,6 @@
   <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/version-0.1.0-0A7EA4" alt="Version 0.1.0"></a>
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white" alt="Python 3.10+"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-2ea44f" alt="MIT License"></a>
-  <a href="https://github.com/LoganVoss/invariant-synthesis-engine/actions/workflows/tests.yml"><img src="https://github.com/LoganVoss/invariant-synthesis-engine/actions/workflows/tests.yml/badge.svg" alt="Tests"></a>
-  <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/status-alpha-orange" alt="Alpha status"></a>
-  <a href="https://docs.astral.sh/ruff/"><img src="https://img.shields.io/badge/lint-ruff-261230" alt="Ruff"></a>
-  <a href="CITATION.cff"><img src="https://img.shields.io/badge/cite-CITATION.cff-9B4F96" alt="Citation"></a>
 </p>
 
 > Find where your measurements say **same** but the system's futures disagree—then synthesize the missing coordinate.
